@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<configuration>release</configuration>
+	<toolchain>v140</toolchain>
+	<instructionset>intel32</instructionset>
+	<osversion>603</osversion>
+	<os>win</os>
+	<linkage>shared</linkage>
+	<bom>
+		<tfs item="$/AutoCAD/Releases/nautilus2017" url="http://tfs.autodesk.com:8080/tfs/acadcollection" version="C51849"/>
+	</bom>
+</metadata>
