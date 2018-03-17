@@ -1,0 +1,4 @@
+H:\Github_Development\AutocadNET\AcadVer\bin\Debug\AcadVer.dll
+H:\Github_Development\AutocadNET\AcadVer\bin\Debug\AcadVer.pdb
+H:\Github_Development\AutocadNET\AcadVer\obj\Debug\AcadVer.dll
+H:\Github_Development\AutocadNET\AcadVer\obj\Debug\AcadVer.pdb
