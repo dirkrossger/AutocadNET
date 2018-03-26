@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcadNet", "AcadNet.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcadVer", "AcadVer\AcadVer.csproj", "{0C0ED8A3-D902-4D5D-807D-B49C4EC0929C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionFence", "SelectionFence\SelectionFence.csproj", "{FC77B4C0-FCF1-408D-AA43-7FDEF61E77F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0C0ED8A3-D902-4D5D-807D-B49C4EC0929C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0ED8A3-D902-4D5D-807D-B49C4EC0929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C0ED8A3-D902-4D5D-807D-B49C4EC0929C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC77B4C0-FCF1-408D-AA43-7FDEF61E77F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC77B4C0-FCF1-408D-AA43-7FDEF61E77F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC77B4C0-FCF1-408D-AA43-7FDEF61E77F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC77B4C0-FCF1-408D-AA43-7FDEF61E77F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
